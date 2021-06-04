@@ -3,7 +3,6 @@
 test 구성원 : 나 -끝-
 
 
+## B
 
-## A
-
-+ `login.py` 생성
+`index.html` 수정
